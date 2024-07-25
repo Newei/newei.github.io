@@ -16,8 +16,8 @@ const protect_keylist = [
   "password",
 ]
 
-let index_html = "https://newei.github.io/Url-Shorten-Worker/" + config.theme + "/index.html"
-let result_html = "https://newei.github.io/Url-Shorten-Worker/" + config.theme + "/result.html"
+let index_html = "https://newei.github.io/" + config.theme + "/index.html"
+let result_html = "https://newei.github.io/" + config.theme + "/result.html"
 
 const html404 = `<!DOCTYPE html>
   <html>
